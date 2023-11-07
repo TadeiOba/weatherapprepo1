@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
 Flask 
 gunicorn 
 requests 
-=======
-Flask
-gunicorn
-requests
->>>>>>> 5b2a9b51a3dd9fe9bbf66842913797fb2805aea1
+
